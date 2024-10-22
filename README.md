@@ -6,7 +6,7 @@ Task Notifier is a Visual Studio Code extension that pops a notification (system
 
 On most platforms, the native notifications will be used and will fallback on Growl when they are no native notification system is available. You should install Growl if you are running a macOS version older than 10.8 or a version of Windows older than 8.
 
-On Linux, notify-osd and libnotify-bin need to be installed (should be installed by default on Ubunutu).
+On Linux, notify-osd and libnotify-bin need to be installed (should be installed by default on Ubuntu).
 
 ## Known Limitations
 
